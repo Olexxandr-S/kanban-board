@@ -32,7 +32,7 @@ Production:
 
 <p align="center">
   <a href="https://0lexxandr-s-kanban-board.netlify.app/">
-    <img src="https://0lexxandr-s-kanban-board.netlify.app/images/board.png" alt="kanban board logo">
+    <img src="https://0lexxandr-s-kanban-board.netlify.app/images/board.png" alt="board">
   </a>
 </p>
 
@@ -40,6 +40,6 @@ Production:
 
 <p align="center">
   <a href="https://0lexxandr-s-kanban-board.netlify.app/">
-    <img src="https://0lexxandr-s-kanban-board.netlify.app/images/board.gif" alt="kanban board logo">
+    <img src="https://0lexxandr-s-kanban-board.netlify.app/images/board.gif" alt="board-themes">
   </a>
 </p>
